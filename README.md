@@ -21,7 +21,7 @@ Note that the normalization algorithm is from [Paper](https://www.cs.unc.edu/~mn
 and the code is from [GitHub](https://github.com/schaugf/HEnorm_python).
 
 ## Computing features using pretrained ResNet
-See `notebook_distributed.ipynb` **Compute representations of patches of every ROI, save them as csv files**.
+See [notebook_distributed.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master/notebook_distributed.ipynb).
 
 ## Training and cross-validation
-See `notebook_distributed.ipynb`.
+See [notebook_distributed.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master/notebook_distributed.ipynb).
