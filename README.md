@@ -12,8 +12,7 @@ Required packages
 ## Prepare patches
 Download the dataset (e.g. TMA dataset) from [Google Drive](https://drive.google.com/file/d/1ZRNYaju0GvT22pw7BXrWI5t1q4DdKgft/view?usp=sharing)  
 Use the `deepzoom_tiler.py` from [this repository](https://github.com/binli123/dsmil-wsi) to prepare patches. 
-Put the patches into a directory named `data_bags/TMA`.  
-Otherwise, the patches (normalzed) can be downloaded from [Google Drive](https://drive.google.com/file/d/1dITGpox7RsXVNaMAsMHF0N27MjNKcC_3/view?usp=sharing). 
+Otherwise, the patches (normalized) can be downloaded from [Google Drive](https://drive.google.com/file/d/1dITGpox7RsXVNaMAsMHF0N27MjNKcC_3/view?usp=sharing). 
 
 ## Stain normalization in batches 
 Example usage is shown in [normalization.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master/normalization.ipynb).  
