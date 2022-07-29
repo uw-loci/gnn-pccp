@@ -106,7 +106,7 @@ class GraphNet(nn.Module):
         edge_index, edge_weight = dropout_adj(edge_index, p=t, training=self.training)
         t = min(max(0, np.random.normal(0.1, 0.1)), 0.5) # drop nodes
         p = F.dropout(x.new_ones((x.size(0), 1)), p=t, training=self.training)
-        x = p * x
+        x = p * x * (1-t)
         x = self.preproc(x)
 
         if self.gcn_layer=='GCN' or self.gcn_layer=='GIN':
