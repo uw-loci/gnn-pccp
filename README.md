@@ -1,5 +1,5 @@
 # Graph neural networks for PDAC vs CP in histology
-
+Manuscript under review (Modern Pathology)  
 
 ## Conda environment
 Install [anaconda/miniconda](https://docs.conda.io/en/latest/miniconda.html)  
@@ -28,5 +28,5 @@ See [notebook_distributed.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master
 ## Generating region proposals from unannotated slides
 Download the slides (de-identified svs) from [Google Drive](https://drive.google.com/drive/folders/1R8peJuBhgemp7rEraLrlSVWk946MwlpN?usp=sharing).  
 Download the annotated regions from [Google Drive](https://drive.google.com/drive/folders/13OGbXlSe5s0wMW3uc68yQLL_EPb-ARYh?usp=sharing).  
-Prepare patches as above for both the slides and annotated regions.  
+Prepare patches following above steps for both the slides and annotated regions.  
 See [notebook_proposals.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master/notebook_proposals.ipynb)  
