@@ -26,7 +26,7 @@ See [notebook_distributed.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master
 See [notebook_distributed.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master/notebook_distributed.ipynb).
 
 ## Generating region proposals from unannotated slides
-Download the slides (de-identified svs) from [Google Drive](https://drive.google.com/drive/folders/1R8peJuBhgemp7rEraLrlSVWk946MwlpN?usp=sharing).  
-Download the annotated regions from [Google Drive](https://drive.google.com/drive/folders/13OGbXlSe5s0wMW3uc68yQLL_EPb-ARYh?usp=sharing).  
+<!--Download the slides (de-identified svs) from [Google Drive](https://drive.google.com/drive/folders/1R8peJuBhgemp7rEraLrlSVWk946MwlpN?usp=sharing).-->   
+<!--Download the annotated regions from [Google Drive](https://drive.google.com/drive/folders/13OGbXlSe5s0wMW3uc68yQLL_EPb-ARYh?usp=sharing).-->   
 Prepare patches following above steps for both the slides and annotated regions.  
 See [notebook_proposals.ipynb](https://github.com/uw-loci/gnn-pccp/blob/master/notebook_proposals.ipynb)  
