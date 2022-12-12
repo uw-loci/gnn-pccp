@@ -1,5 +1,5 @@
 # Graph neural networks for PDAC vs CP in histology
-Manuscript under review (JPI)  
+[Paper on Journal of Pathology Informatics](https://www.sciencedirect.com/science/article/pii/S2153353922007520)   
 
 ## Conda environment
 Install [anaconda/miniconda](https://docs.conda.io/en/latest/miniconda.html)  
